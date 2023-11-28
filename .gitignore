@@ -1,0 +1,17 @@
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Pasta binária de compilação
+bin/
+
+# Pasta de objetos de compilação
+obj/
+
+# Arquivos temporários do Visual Studio
+*.user
+*.suo
+*.cache
+*.log
