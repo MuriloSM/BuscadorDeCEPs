@@ -63,6 +63,16 @@ namespace consultarCep.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _66d716b822ff33d9aeb8df257de65197 {
+            get {
+                object obj = ResourceManager.GetObject("_66d716b822ff33d9aeb8df257de65197", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap logo__1_ {
             get {
                 object obj = ResourceManager.GetObject("logo (1)", resourceCulture);
