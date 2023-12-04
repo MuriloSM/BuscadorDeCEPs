@@ -216,6 +216,6 @@ namespace consultarCep
         private TextBox txtCEP;
         private Button btBuscar;
         private Button btLimpar;
-        private txtb txtb2;
+        
     }
 }
